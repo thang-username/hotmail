@@ -1,0 +1,1 @@
+<script>alert('CÚT - BẢO MẬT THÁI SALE');</script>
